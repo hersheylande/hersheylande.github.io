@@ -20,9 +20,9 @@ http://www.linkedin.com/in/hersheylande
 
 I was part of the Web team at Seagate Technology, I got to work with a design agency, Marketing team and the Engineering team to work on a 15 week redesign project of the customer facing Seagate.com, that showcases Seagate products and more.
 
-- Aided in the redesign of Seagate.com\
-- Involved in Front End Development of sit components\
-- Tested many new site components in new redesign \
+- Aided in the redesign of Seagate.com
+- Involved in Front End Development of sit components
+- Tested many new site components in new redesign
 
 
 ## Apple (Seattle, Washington)
@@ -33,7 +33,7 @@ I was part of the Web team at Seagate Technology, I got to work with a design ag
 
 Demonstrated extensive knowledge in the products and services offered by Apple to provide the consumer with a complete solution which boost4ed overall store customer service goals
 
-- Had a NPS score of 95 and 100 for the two quarters I worked there\
+- Had a NPS score of 95 and 100 for the two quarters I worked there
 
 ## Edifecs (Bellevue, Washignton)
 
@@ -44,7 +44,7 @@ Demonstrated extensive knowledge in the products and services offered by Apple t
 I worked on the Data Scientist Team, researched the use of AI and ML in Medicine
 
 - Interviews various stake holders
-- Wire-framed & designed a physical smart camera prototype\
+- Wire-framed & designed a physical smart camera prototype
 
 [Seagate Technology]: https://www.seagate.com/
 [Apple Inc.]: https://www.apple.com/
