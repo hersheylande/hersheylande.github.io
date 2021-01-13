@@ -1,6 +1,6 @@
 # Hershey Lande
 
-![A Picture of Me ](Me.jpeg)
+![A Picture of Me ](https://github.com/hersheylande/hersheylande.github.io/blob/main/me.jpeg)
 
 landeh@uw.edu
 
