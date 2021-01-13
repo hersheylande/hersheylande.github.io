@@ -1,6 +1,6 @@
 # Hershey Lande
 
-![A Picture of Me ](/Users/hersheylande/Desktop/Winter/GEOG 458/hersheylande.github.io/Me.jpeg)
+![A Picture of Me ](Me.jpeg)
 
 landeh@uw.edu
 
