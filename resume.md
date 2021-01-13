@@ -1,10 +1,6 @@
 # Hershey Lande
 
-![A Picture of Me ](https://github.com/hersheylande/hersheylande.github.io/blob/main/me.jpeg)
-
-landeh@uw.edu
-
-[Portfolio](http://www.harshitalande.myportfolio.com) [LinkedIn](http://www.linkedin.com/in/hersheylande)
+[Portfolio](http://www.harshitalande.myportfolio.com) | [LinkedIn](http://www.linkedin.com/in/hersheylande) | [Email] (landeh@uw.edu)
 
 
 # Summary
