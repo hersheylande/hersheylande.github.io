@@ -1,10 +1,12 @@
 # Hershey Lande
 
+![me.jpeg](Users/hersheylande/Desktop/Winter/GEOG 458/hersheylande.github.io/)
+
 landeh@uw.edu
 
-http://www.harshitalande.myportfolio.com
+[Portfolio](http://www.harshitalande.myportfolio.com)
 
-http://www.linkedin.com/in/hersheylande
+[LinkedIn](http://www.linkedin.com/in/hersheylande)
 
 
 # Summary
